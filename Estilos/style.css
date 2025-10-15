@@ -1,0 +1,93 @@
+h1{
+    font: size 1000px;
+    text-align:center;
+    font-family: cursive;
+    color: blue;
+}
+h2{
+    font-size: 20px;
+    text-align: left;
+    font-family:Arial, Helvetica, sans-serif;
+    color: cadetblue;
+}
+h4{
+    font-size: 20px;
+    text-align: left;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(103, 143, 202);
+}
+
+
+.resaltado{
+    color:red;
+    font-weight:bold;
+}
+.EquipoTrabajando{
+    text-align: center;
+}
+.Oficinas{
+    text-align: center;
+}
+.Logo{
+    text-align: center;
+    
+    size: 20px;
+}
+.LogoOficinas {
+    width: 100%;
+    max-width: 280px;
+    height:auto;
+    
+}
+
+.EquipoTrabajo {
+    text-align: center;
+    width: 250px;
+    height: auto;
+    border-radius: 8px;
+    
+
+}
+.imagen2 {
+    text-align: center;
+    width: 250px;
+    height: auto;
+    border-radius: 8px;
+    
+
+}
+.imagen3 {
+    text-align: center;
+    width: 250px;
+    height: auto;
+    border-radius: 8px;
+    
+
+}
+h5{
+    font-size: 20px;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    color: deepskyblue;
+}
+h6{
+    font-size: 20px;
+    color: blue;
+}
+
+footer{
+    color: gray;
+}
+
+body {
+    background: linear-gradient(to right, rgb(0, 0, 0), rgb(119, 118, 118), rgb(27, 39, 92));
+}
+p {
+    color:aliceblue;
+}
+li {
+    color: aliceblue;
+}
+td {
+    color:aliceblue;
+}

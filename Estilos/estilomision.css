@@ -1,0 +1,68 @@
+h1{
+
+    text-align: center;
+    font-size: 70px;
+    color:  rgb(0, 0, 0);
+    font-family: cursive;
+}
+.mision{
+    font-family: Comic Sans MS;
+    
+      
+}
+.parr1{
+    font-family: Comic Sans MS;
+    
+      
+}
+.parr2{
+    font-family: Comic Sans MS;
+    
+      
+}
+h2{
+    font-family: cursive;
+    text-align: left ;
+}
+.Titproyecto{
+    font-family: cursive;
+}
+.parrr{
+    font-family: initial;
+}
+table {
+    border-collapse: collapse;
+    width: 40%;
+    background-color: #eeeee7;
+    box-shadow: 0px 4px 8px rgba(211, 205, 205, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    color: #658661;
+}
+.Title {
+    font-size: 22px;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+th {
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+    background-color: #ececf1;
+}
+td {
+    font-size: 22px;
+}
+tr:hover {
+    background-color: #e7dfdf;
+}
+.pie{
+    text-align: center;
+}
+body{
+    background-color: rgb(149, 194, 179);
+}
